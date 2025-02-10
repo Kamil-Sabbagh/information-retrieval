@@ -131,3 +131,4 @@ dmypy.json
 # MAC things
 .DS_Store
 labs/lab05/github-typo-corpus.v1.0.0.jsonl.gz
+labs/lab07/cc.en.300.bin.gz.part
